@@ -1,0 +1,10 @@
+{
+  "domain": "switcheon",
+  "name": "SwitcheOn",
+  "codeowners": [],
+  "config_flow": true,
+  "documentation": "https://github.com/SeanMollet/SwitcheOn-API",
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "version": "0.1.0"
+}

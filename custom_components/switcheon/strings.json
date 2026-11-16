@@ -1,0 +1,15 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Connect to SwitcheOn",
+        "description": "Enter the email and password for your SwitcheOn phone app account.",
+        "data": {"email": "Email", "password": "Password"}
+      }
+    },
+    "error": {
+      "invalid_auth": "The SwitcheOn credentials were rejected.",
+      "cannot_connect": "Could not connect to SwitcheOn."
+    }
+  }
+}
